@@ -1,15 +1,14 @@
-*.class
 .classpath
 .project
-.settings/
-.buildpath
+.settings
+.springBeans
+.svn
 .DS_Store
-logs
-target/
-work/
-node_modules/
-node/
-.idea/
 *.iml
-_dev.properties
 
+/.idea
+/bin
+/logs
+/*/logs
+/target
+/*/target
